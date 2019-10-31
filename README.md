@@ -37,9 +37,9 @@ xaddl: 12280.9 elapsed(ms), n = 1000000000
 第 4 世代 Intel® Core™ i7-4650U  
 メモリ 8G
 
-inc1: 5307.09 elapsed(ms), n = 1000000000
-inc2: 8789.29 elapsed(ms), n = 1000000000
-xadd1: 6881.48 elapsed(ms), n = 1000000000
-xadd2: 9189.67 elapsed(ms), n = 1000000000
+inc1: 5307.09 elapsed(ms), n = 1000000000  
+inc2: 8789.29 elapsed(ms), n = 1000000000  
+xadd1: 6881.48 elapsed(ms), n = 1000000000  
+xadd2: 9189.67 elapsed(ms), n = 1000000000  
 xaddl: 15579 elapsed(ms), n = 1000000000
 [
